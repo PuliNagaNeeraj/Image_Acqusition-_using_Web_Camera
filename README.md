@@ -32,6 +32,7 @@ End the program and close the output video window by pressing 'q'.
 ### Developed By: Puli Naga Neeraj
 ### Register No: 212223240130
 ```
+```
 ## i) Write the frame as JPG file
 import cv2
 viedoCaptureObject=cv2.VideoCapture(0)
@@ -41,6 +42,7 @@ while(True):
     result=False
 viedoCaptureObject.release()
 cv2.destroyAllWindows()
+```
 ```
 ## ii) Display the video
 import numpy as np
@@ -53,6 +55,7 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+```
 ```
 ## iii) Display the video by resizing the window
 import numpy as np
@@ -73,6 +76,7 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+```
 ```
 ## iv) Rotate and display the video
 import numpy as np
