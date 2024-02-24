@@ -113,7 +113,7 @@ cv2.destroyAllWindows()
 </br>
 </br>
 ### iii) Display the video by resizing the window
-![dip-2 3](https://github.com/PuliNagaNeeraj/Image_Acqusition-_using_Web_Camera/assets/138849173/7d1e431e-7428-450d-a056-652d6c468379)
+![dip-2 3](https://github.com/PuliNagaNeeraj/Image_Acqusition-_using_Web_Camera/assets/138849173/0d8ac7f2-c401-4029-890c-31d537526a63)
 
 </br>
 </br>
