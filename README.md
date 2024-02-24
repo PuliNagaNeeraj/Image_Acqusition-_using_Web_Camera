@@ -31,8 +31,8 @@ End the program and close the output video window by pressing 'q'.
 ``` Python
 ### Developed By: Puli Naga Neeraj
 ### Register No: 212223240130
-
-# i) Write the frame as JPG file
+```
+## i) Write the frame as JPG file
 import cv2
 viedoCaptureObject=cv2.VideoCapture(0)
 while(True):
@@ -41,7 +41,7 @@ while(True):
     result=False
 viedoCaptureObject.release()
 cv2.destroyAllWindows()
-
+```
 ## ii) Display the video
 import numpy as np
 import cv2
