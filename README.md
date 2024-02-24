@@ -112,6 +112,7 @@ cv2.destroyAllWindows()
 
 </br>
 </br>
+
 ### iii) Display the video by resizing the window
 
 ![image](https://github.com/PuliNagaNeeraj/Image_Acqusition-_using_Web_Camera/assets/138849173/0f809a93-7134-40f4-b190-b38138d95228)
@@ -119,11 +120,13 @@ cv2.destroyAllWindows()
 
 </br>
 </br>
+
 ### iv) Rotate and display the video
 
 ![dip-2 4](https://github.com/PuliNagaNeeraj/Image_Acqusition-_using_Web_Camera/assets/138849173/9eeb243f-e525-4378-a315-5fe964514604)
 
 </br>
 </br>
+
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
